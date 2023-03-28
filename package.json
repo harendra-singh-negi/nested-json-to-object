@@ -1,0 +1,24 @@
+{
+  "name": "nested-json-to-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harendra-singh-negi/nested-json-to-object.git"
+  },
+  "author": "Harendra Singh Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harendra-singh-negi/nested-json-to-object/issues"
+  },
+  "homepage": "https://github.com/harendra-singh-negi/nested-json-to-object#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
